@@ -2,10 +2,10 @@
 
 ---
 
-    - https://vvv-j.github.io/
+    - https://lifeheck.github.io/
 
-    - https://github.com/vvv-j/vvv-j.github.io/
+    - https://github.com/lifeheck/lifeheck.github.io/
 
-    - https://github.com/vvv-j/vvv-j.github.io/wiki
+    - https://github.com/lifeheck/lifeheck.github.io/wiki
 
 ---
