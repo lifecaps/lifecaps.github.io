@@ -6,7 +6,8 @@ permalink: /
 
 
 
-[Home](https://vvv-j.github.io/)
-[Wiki](https://github.com/vvv-j/vvv-j.github.io/wiki/)
+[Home](https://lifecaps.github.io/)
+[Wiki](https://github.com/lifecaps/lifecaps.github.io/wiki/)
 
 ## Welcome
+
