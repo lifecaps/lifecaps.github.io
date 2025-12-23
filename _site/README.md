@@ -1,5 +1,5 @@
-# vvv-j.github.io
+## lifecaps.github.io
 
-https://vvv-j.github.io/
-https://github.com/vvv-j/vvv-j.github.io/
-https://github.com/vvv-j/vvv-j.github.io/wiki
+https://lifecaps.github.io/
+https://github.com/lifecaps/lifecaps.github.io/
+https://github.com/lifecaps/lifecaps.github.io/wiki
