@@ -9,3 +9,5 @@
     - https://github.com/lifecaps/lifecaps.github.io/wiki
 
 ---
+
+tldr synopsis curriculum toc moc
